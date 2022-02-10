@@ -24,6 +24,8 @@
   - Greatest increase in profits (date and amount) over the entire period.
   - Greatest decrease in losses (date and amount) over the entire period.
 
+- Check your results on the [`output.txt`](output.txt) file
+
 ## Sample Results 📈
 
 ```text
