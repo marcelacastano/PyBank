@@ -16,13 +16,15 @@
   | date 2 | number 2|
   | ... | ...|
 
-Run the [`pybank.ipynb`](pybank.ipynb) script to obtain the following financial summary:
+- Run the [`pybank.ipynb`](pybank.ipynb) script to obtain the following financial summary:
 
-- Total number of months included in the dataset.
-- Net total amount of Profit/Losses over the entire period.
-- Average of the changes in Profit/Losses over the entire period.
-- Greatest increase in profits (date and amount) over the entire period.
-- Greatest decrease in losses (date and amount) over the entire period.
+  - Total number of months included in the dataset.
+  - Net total amount of Profit/Losses over the entire period.
+  - Average of the changes in Profit/Losses over the entire period.
+  - Greatest increase in profits (date and amount) over the entire period.
+  - Greatest decrease in losses (date and amount) over the entire period.
+
+- Check your results on the [`output.txt`](output.txt) file
 
 ## Sample Results 📈
 
@@ -30,7 +32,7 @@ Run the [`pybank.ipynb`](pybank.ipynb) script to obtain the following financial 
   Financial Analysis
   ---------------------------
   Total months: 86
-  Total: $38,382,578.00
+  Total profit: $38,382,578.00
   Average change: $-2,315.12 
   Greatest Increase in Profits occured in Feb-2012 ($1,926,159.00)
   Greatest Decrease in Profits occured in Sep-2013 ($-2,196,167.00)
